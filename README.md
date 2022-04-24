@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🎓 I am a dual-degree PhD student from CityU and DUT, and major in Computer Vision and Deep Learning. 
-- 🔭 My recent works are saliency detection, OCR, etc., appearing on top journals (e.g. IJCV, TIP) and conferences (e.g. CVPR, BMVC).
+- 🎓 I am a dual-degree PhD student from CityU and DUT. My interests are Computer Vision and Deep Learning.
+- 🔭 My recent works are saliency detection, OCR, etc., appearing at top journals (e.g. IJCV, TIP) and conferences (e.g. CVPR, BMVC).
 - ⚡ I will finish my thesis this year (2022), and I am looking for a good job opportunity.
 - 📫 How to reach me: xtian@mail.dlut.edu.cn, xin.tian.831@gmail.com
 
