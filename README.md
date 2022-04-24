@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🎓 I am a PhD candidate majoring in Computer Vision and Deep Learning. 
-- 🔭 My recent works are saliency detection, OCR, etc., being published on top journals (e.g. IJCV, TIP) and conferences (e.g. CVPR, BMVC).
+- 🔭 My recent works are saliency detection, OCR, etc., appearing on top journals (e.g. IJCV, TIP) and conferences (e.g. CVPR, BMVC).
 - ⚡ I will finish my thesis this year (2022), and I am looking for a good job opportunity.
 - 📫 How to reach me: xtian@mail.dlut.edu.cn, xin.tian.831@gmail.com
 
