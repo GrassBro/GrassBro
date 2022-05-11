@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🎓 I am a dual-degree PhD student from CityU and DUT. My research interests are Computer Vision and Deep Learning.
-- 🔭 My recent works focus on saliency detection and image restoration, which are published at top conferences (e.g. CVPR, BMVC) and journals (e.g. IJCV, TIP). Meanwhile, my research direction moves to OCR and Vision-Language transfer learning more. 
+- 🔭 My recent works focus on saliency detection and image restoration, which are published at top conferences (e.g. CVPR, BMVC) and journals (e.g. IJCV, TIP). Moreover, my research direction moves to OCR and transfer learning with Vision-Language knowledge. 
 - ⚡ I will finish my PhD thesis this year (2022), and I am looking for a good job opportunity.
 - 📫 How to reach me: xtian@mail.dlut.edu.cn, xin.tian.831@gmail.com
 
