@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🎓 I am a dual-degree Ph.D. student from CityU and DUT. My research interests are Computer Vision and Deep Learning.
-- 🔭 My recent works focus on saliency detection and image restoration, which are published at top conferences (e.g., CVPR, BMVC) and journals (e.g., IJCV, TIP). Moreover, my research direction moves to OCR and multi-modality reasoning. 
+- 🎓 I got my dual PhD degrees from CityU and DUT. My research interests are Computer Vision and Deep Learning.
+- 🔭 My recent works focus on saliency detection and image restoration, which are published at top conferences (e.g., CVPR, BMVC) and journals (e.g., IJCV, TIP). Moreover, my research direction moves to OCR and multi-modality learning under the AIGC background. 
 
 <!--
 
